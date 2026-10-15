@@ -7,6 +7,7 @@
 ### Patches Include:
 - Custom FOV by w0lf (illusion's) (GT5 v1.00, v1.10 & v2.11 + GT6 v1.05)
 - Looser Chase Cam by Edo (barely had to backport) (GT6 v1.05)
+  - If you see this Edo, thanks for finding the static addresses, if you want me to remove it from this list, lmk!
 - QA/Debug Menu by w0lf (GT5 v1.00, v1.10 + GT6 v1.05)
 - Aspect Ratio by w0lf (GT6 v1.05)
 
